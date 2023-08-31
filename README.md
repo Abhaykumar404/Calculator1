@@ -1,4 +1,4 @@
-Calculator 
+#Calculator 
 
 Presenting a dynamic calculator built with React.js, combining robust functionality with a modern user interface. 
 This calculator offers a seamless platform for performing basic to complex calculations with ease. The intuitive design 
